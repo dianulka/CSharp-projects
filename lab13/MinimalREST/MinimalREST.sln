@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalREST", "MinimalREST.csproj", "{8FE7F87D-95D2-428E-AB60-50A9B45AC716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE7F87D-95D2-428E-AB60-50A9B45AC716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE7F87D-95D2-428E-AB60-50A9B45AC716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE7F87D-95D2-428E-AB60-50A9B45AC716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE7F87D-95D2-428E-AB60-50A9B45AC716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C47C44-FB17-4952-A560-F41FE35E3B3D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkLCj8TobWx6/ZSEXNTzvwqBpfHwZkFA0vg2qJczygjXwYonXa5HIYSkq8mX+3Ttq4fieyPukxWHXxAAYCSG5w==",
+  "success": true,
+  "projectFilePath": "D:\\semestr4\\pz2\\lab12\\lab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

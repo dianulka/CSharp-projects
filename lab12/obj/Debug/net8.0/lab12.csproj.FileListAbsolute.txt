@@ -1,0 +1,17 @@
+D:\semestr4\pz2\lab12\bin\Debug\net8.0\lab12.exe
+D:\semestr4\pz2\lab12\bin\Debug\net8.0\lab12.deps.json
+D:\semestr4\pz2\lab12\bin\Debug\net8.0\lab12.runtimeconfig.json
+D:\semestr4\pz2\lab12\bin\Debug\net8.0\lab12.dll
+D:\semestr4\pz2\lab12\bin\Debug\net8.0\lab12.pdb
+D:\semestr4\pz2\lab12\bin\Debug\net8.0\System.Reactive.dll
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.csproj.AssemblyReference.cache
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.AssemblyInfoInputs.cache
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.AssemblyInfo.cs
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.csproj.CoreCompileInputs.cache
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.csproj.Up2Date
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.dll
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\refint\lab12.dll
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.pdb
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\lab12.genruntimeconfig.cache
+D:\semestr4\pz2\lab12\obj\Debug\net8.0\ref\lab12.dll
