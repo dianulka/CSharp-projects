@@ -1,1 +1,1 @@
-# LAB 13
+# Zdalne zarządzanie danymi przy pomocy REST API
